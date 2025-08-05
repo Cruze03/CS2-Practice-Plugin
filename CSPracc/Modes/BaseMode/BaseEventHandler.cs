@@ -1,4 +1,5 @@
 ﻿using CounterStrikeSharp.API.Core;
+using CounterStrikeSharp.API.Modules.Events;
 using CSPracc.CommandHandler;
 using System;
 using System.Collections.Generic;
